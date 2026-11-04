@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Local outputs and databases
+reports/
+data/
+*.egg-info/
+*.sqlite
+*.sqlite3
+*.db
+
+# Private program scopes and local configuration
+scopes/
+*.scope.yaml
+*.scope.yml
+.env
+.env.*
+
+# Development-environment artifacts
+.playwright-mcp/
+.agents/
+.aws/
+.codex/
+*.log
+.coverage
+.DS_Store

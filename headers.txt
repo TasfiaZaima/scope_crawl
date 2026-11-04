@@ -1,0 +1,20 @@
+HTTP/2 307 
+date: Wed, 04 Nov 2026 06:45:19 GMT
+content-type: text/html; charset=UTF-8
+content-length: 136
+location: https://wise.com/platform
+server: cloudflare
+set-cookie: __cf_bm=_ITUoM7nrFryeH0WvwNGrBPH0tJeGWfyj6lRl6J2sds-1793774718.857235-1.0.1.1-daP6LEzHJuxbmwoQwNtu7K_pFgo7.2gNdJtlFR3_UO6swPEefATFqh5XXB0Q1ou.YwlRcpe_CqZXA7DhRJG4ZKMmO8h9kTEzItAG4AGo1dCoAVOo15o90lnqN_95VvE9WJ4Yu8z08u_Kpk_fPqdgWA; HttpOnly; SameSite=None; Secure; Path=/; Domain=transferwise.com; Expires=Wed, 04 Nov 2026 07:15:19 GMT
+x-trace-id: 154bfd560cd17966dbef10c095c647cd
+cache-control: private, no-cache, no-store, max-age=0
+expires: 0
+pragma: no-cache
+content-security-policy: frame-ancestors 'none'
+referrer-policy: no-referrer
+permissions-policy: camera=(), microphone=(), geolocation=(), usb=(), display-capture=()
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+cf-cache-status: DYNAMIC
+cf-ray: a551a7b8dd2516d4-DAC
+alt-svc: h3=":443"; ma=86400
+
